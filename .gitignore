@@ -1,0 +1,4 @@
+app/upload
+.docker/data
+.idea/
+docker-compose.override.yml
